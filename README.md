@@ -5,8 +5,8 @@
 
 ### 👨‍💻 About Me:
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" height="200" alt="Coder working on laptop"/>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="200" alt="Creative animation" />
+  <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="200" height="200" alt="Coder working on laptop"/>
+  <img src="https://media.giphy.com/media/fwbzI2VYtd6c8lbZln/giphy.gif" width="200" height="200" alt="Creative animation" />
 </p>
 
 I’m Ujjwal, a developer passionate about transforming ideas into digital experiences! 🚀 Currently, I'm focused on **CoinXchange**, building innovative solutions to reshape customer loyalty for small and medium-sized businesses. Always exploring new tech—right now, I'm diving deep into **Blockchain**!
@@ -48,7 +48,7 @@ I’m Ujjwal, a developer passionate about transforming ideas into digital exper
   <img src="https://img.icons8.com/color/48/express.png" alt="Express" />
   <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="TailwindCSS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" width="48" height="48" alt="Three.js" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/GreenSock_Logo.svg" width="48" height="48" alt="GSAP" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/GSAP_Logo.svg" width="48" height="48" alt="GSAP" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Framer_Motion_logo.svg" width="48" height="48" alt="Framer Motion" />
 </p>
 
