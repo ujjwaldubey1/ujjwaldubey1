@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Dubey</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
-
-
 ---
 
 ### 👨‍💻 About Me:
@@ -22,16 +20,22 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages, Tools, and Frameworks:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" />
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="TailwindCSS" />
+  <img src="https://img.icons8.com/color/48/000000/solidity.png" alt="Solidity" />
+  <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" />
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+  <img src="https://img.icons8.com/color/48/000000/gsap.png" alt="GSAP" />
+  <img src="https://img.icons8.com/color/48/000000/framer.png" alt="Framer Motion" />
+  <img src="https://img.icons8.com/color/48/000000/threejs.png" alt="Three.js" />
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
 </p>
 
@@ -39,16 +43,5 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwaldubey1&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaldubey1&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwaldubey1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
-
-### 🏆 Achievements:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ujjwaldubey1&theme=radical&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
