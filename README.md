@@ -5,12 +5,13 @@
 
 ### 👨‍💻 About Me:
 <p align="center">
-  <img src="https://media.giphy.com/media/1n7nW7HYymc7JZ0rNG/giphy.gif" width="60" height="60"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" height="200" alt="Coder working on laptop"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="200" alt="Creative animation" />
 </p>
 
-I’m Ujjwal, a developer who believes in the magic of turning ideas into engaging digital experiences! 🚀 Currently, I'm dedicated to revolutionizing customer loyalty with **CoinXchange**, aiming to make loyalty programs more accessible for small and medium-sized businesses. My toolkit is always expanding—currently delving into **Blockchain** to push my skills to the next level!
+I’m Ujjwal, a developer passionate about transforming ideas into digital experiences! 🚀 Currently, I'm focused on **CoinXchange**, building innovative solutions to reshape customer loyalty for small and medium-sized businesses. Always exploring new tech—right now, I'm diving deep into **Blockchain**!
 
-- 💬 Reach out to me about **React** and the wonders of **Three.js**
+- 💬 Love discussing **React** and exploring the magic of **Three.js**
 - 📫 Let’s connect: **ujjwal07dubey@gmail.com**
 - ⚡ Fun fact: **I dance a lot!** 🕺
 
@@ -34,7 +35,7 @@ I’m Ujjwal, a developer who believes in the magic of turning ideas into engagi
 
 ### 🛠️ Tools:
 <p align="center">
-  <img src="https://img.icons8.com/color/48/postman-api.png" alt="Postman" />
+  <img src="https://img.icons8.com/external-outline-juicy-fish/48/external-postman-api-development-outline-juicy-fish.png" alt="Postman" />
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
@@ -48,7 +49,7 @@ I’m Ujjwal, a developer who believes in the magic of turning ideas into engagi
   <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="TailwindCSS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" width="48" height="48" alt="Three.js" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/GreenSock_Logo.svg" width="48" height="48" alt="GSAP" />
-  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-framer-motion-design-toolkit-for-web-and-mobile-product-design-logo-filled-tal-revivo.png" alt="Framer Motion" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Framer_Motion_logo.svg" width="48" height="48" alt="Framer Motion" />
 </p>
 
 ---
