@@ -4,17 +4,21 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 Currently transforming customer loyalty programs with **CoinXchange**
-- 🌱 Diving deep into **Blockchain** to uncover new tech possibilities
-- 💬 Always up for a chat about **React** or the wonders of **Three.js**
-- 📫 Feel free to connect at **ujjwal07dubey@gmail.com**
-- ⚡ Fun fact: **I’m equally passionate about dancing!**
+<p align="center">
+  <img src="https://media.giphy.com/media/1n7nW7HYymc7JZ0rNG/giphy.gif" width="60" height="60"/>
+</p>
+
+I’m Ujjwal, a developer who believes in the magic of turning ideas into engaging digital experiences! 🚀 Currently, I'm dedicated to revolutionizing customer loyalty with **CoinXchange**, aiming to make loyalty programs more accessible for small and medium-sized businesses. My toolkit is always expanding—currently delving into **Blockchain** to push my skills to the next level!
+
+- 💬 Reach out to me about **React** and the wonders of **Three.js**
+- 📫 Let’s connect: **ujjwal07dubey@gmail.com**
+- ⚡ Fun fact: **I dance a lot!** 🕺
 
 ---
 
 ### 🌐 Connect with Me:
 <p align="center">
-  <a href="https://x.com/ujjwal07dubey" target="blank"><img src="https://img.icons8.com/color/48/twitter.png" alt="Twitter" /></a>
+  <a href="https://x.com/ujjwal07dubey" target="blank"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/ujjwal-dubey-667909255" target="blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" /></a>
 </p>
 
@@ -25,7 +29,7 @@
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-solidity-an-object-oriented-programming-language-for-writing-smart-contracts-logo-color-tal-revivo.png" alt="Solidity" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="48" height="48" alt="Solidity" />
 </p>
 
 ### 🛠️ Tools:
@@ -42,9 +46,9 @@
   <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
   <img src="https://img.icons8.com/color/48/express.png" alt="Express" />
   <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="TailwindCSS" />
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-threejs-an-open-source-javascript-3d-library-and-webgl-animator-logo-shadow-tal-revivo.png" alt="Three.js" />
-  <img src="https://img.icons8.com/color/48/gsap.png" alt="GSAP" />
-  <img src="https://img.icons8.com/color/48/framer.png" alt="Framer Motion" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" width="48" height="48" alt="Three.js" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/GreenSock_Logo.svg" width="48" height="48" alt="GSAP" />
+  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-framer-motion-design-toolkit-for-web-and-mobile-product-design-logo-filled-tal-revivo.png" alt="Framer Motion" />
 </p>
 
 ---
